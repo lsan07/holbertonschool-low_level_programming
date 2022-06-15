@@ -1,10 +1,10 @@
-#include < stdio.h >
+#include <stdio.h>
 
 /**
 *main - Principal funtion
 *
-*Return : 0
-* /
+*Return: 0
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
